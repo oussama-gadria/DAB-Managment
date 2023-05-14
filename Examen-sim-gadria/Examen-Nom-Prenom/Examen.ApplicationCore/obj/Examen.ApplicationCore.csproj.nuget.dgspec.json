@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\21653\\Downloads\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {}
+    "C:\\Users\\21653\\Desktop\\Oussama\\DAB\\DAB-Managment\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\21653\\Downloads\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
+    "C:\\Users\\21653\\Desktop\\Oussama\\DAB\\DAB-Managment\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\21653\\Downloads\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\21653\\Desktop\\Oussama\\DAB\\DAB-Managment\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
         "projectName": "Examen.ApplicationCore",
-        "projectPath": "C:\\Users\\21653\\Downloads\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\21653\\Desktop\\Oussama\\DAB\\DAB-Managment\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\21653\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\21653\\Downloads\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\21653\\Desktop\\Oussama\\DAB\\DAB-Managment\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\21653\\AppData\\Roaming\\NuGet\\NuGet.Config",

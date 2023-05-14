@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Examen.ApplicationCore.Domain
 {
-    public class TransactionRetrait
+    public class TransactionRetrait:Transaction
     {
-        public int TransactionRetraitId { get; set; }
+        public bool AutreAgence { get; set; }
     }
 }

@@ -8,5 +8,7 @@ namespace Examen.ApplicationCore.Domain
 {
     public enum TypeCompte 
     {
+        Epargne,
+        Courant
     }
 }

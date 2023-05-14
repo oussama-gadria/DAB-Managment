@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Examen.ApplicationCore.Domain
 {
-    internal class TransactionTransfert
+    public class TransactionTransfert:Transaction
     {
+        public string NumeroCompte { get; set; }
     }
 }

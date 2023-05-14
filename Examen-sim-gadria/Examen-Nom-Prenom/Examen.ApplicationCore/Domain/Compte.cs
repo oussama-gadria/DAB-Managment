@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,10 +10,13 @@ namespace Examen.ApplicationCore.Domain
 {
     public class Compte
     {
-        public int CompteId { get; set; }
+        [Key]
         public string NumeroCompte { get; set; }
         public string Propriétaire { get; set; }
         public double Solde { get; set; }
         public TypeCompte Type { get; set; }
+        public int BanqueFk { get; set; }
+        [ForeignKey("BanqueFk")]
+        public Banque banque;
     }
 }

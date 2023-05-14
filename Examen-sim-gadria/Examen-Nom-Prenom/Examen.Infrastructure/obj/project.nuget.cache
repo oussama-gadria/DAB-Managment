@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2/DEAHMAMx7xowaSISOHcixjSSEorLGxZz2rgwcOgThw10Q9/O8dakVTVxYtgfzK9JOsa/MEHJkmiybRPeTBUQ==",
+  "dgSpecHash": "P9vvu1uIHLSyyQfmAYvmTvanTlQgHO/ROdwTQtVH/LDspsn2oQCGXIplwlfAEa6hCKs1/MUBLO/gAXn4WK/FZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\21653\\Downloads\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\21653\\Desktop\\Oussama\\DAB\\DAB-Managment\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\21653\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\21653\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

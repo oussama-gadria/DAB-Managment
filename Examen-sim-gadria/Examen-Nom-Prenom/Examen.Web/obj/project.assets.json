@@ -10571,11 +10571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\21653\\Downloads\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj",
+      "projectUniqueName": "C:\\Users\\21653\\Desktop\\Oussama\\DAB\\DAB-Managment\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj",
       "projectName": "Examen.Web",
-      "projectPath": "C:\\Users\\21653\\Downloads\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj",
+      "projectPath": "C:\\Users\\21653\\Desktop\\Oussama\\DAB\\DAB-Managment\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj",
       "packagesPath": "C:\\Users\\21653\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\21653\\Downloads\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.Web\\obj\\",
+      "outputPath": "C:\\Users\\21653\\Desktop\\Oussama\\DAB\\DAB-Managment\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\21653\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10592,11 +10592,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\21653\\Downloads\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\21653\\Downloads\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
+            "C:\\Users\\21653\\Desktop\\Oussama\\DAB\\DAB-Managment\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\21653\\Desktop\\Oussama\\DAB\\DAB-Managment\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
             },
-            "C:\\Users\\21653\\Downloads\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\21653\\Downloads\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj"
+            "C:\\Users\\21653\\Desktop\\Oussama\\DAB\\DAB-Managment\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\21653\\Desktop\\Oussama\\DAB\\DAB-Managment\\Examen-sim-gadria\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj"
             }
           }
         }
