@@ -10,6 +10,7 @@ namespace Examen.ApplicationCore.Domain
     {
         public string DabId { get; set; }
         public string Localisation { get; set; }
+        public virtual IList<Transaction> Transactions { get; set; }
 
     }
 }

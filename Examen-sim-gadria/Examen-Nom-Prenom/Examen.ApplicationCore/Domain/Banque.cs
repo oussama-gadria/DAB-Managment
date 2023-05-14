@@ -17,6 +17,6 @@ namespace Examen.ApplicationCore.Domain
         public string Nom { get; set; }
         public string Rue { get; set; }
         public string Ville { get; set; }
-        public IList<Compte> Comptes { get; set; }
+        public virtual IList<Compte> Comptes { get; set; }
     }
 }

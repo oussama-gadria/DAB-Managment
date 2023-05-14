@@ -15,8 +15,10 @@ namespace Examen.ApplicationCore.Domain
         public string Propriétaire { get; set; }
         public double Solde { get; set; }
         public TypeCompte Type { get; set; }
-        public int BanqueFk { get; set; }
+
+        public virtual IList<Transaction> Transactions { get; set; }
+        public virtual int BanqueFk { get; set; }
         [ForeignKey("BanqueFk")]
-        public Banque banque;
+        public  Banque banque;
     }
 }

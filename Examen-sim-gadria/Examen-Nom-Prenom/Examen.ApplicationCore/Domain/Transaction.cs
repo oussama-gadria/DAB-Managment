@@ -12,13 +12,9 @@ namespace Examen.ApplicationCore.Domain
         public DateTime Date { get; set; }
         public double Montant { get; set; }
 
-        public string DABFk { get; set; }
-        public string NumeroConpteFk { get; set; }
-
-        [ForeignKey("DABFk")]
-        public DAB Dab { get; set; }
-
-        [ForeignKey("NumeroConpteFk")]
-        public Compte Compte { get; set; }
+        public virtual string DABFk { get; set; }
+        public virtual string NumeroCompteFk { get; set; }   
+        public virtual DAB Dab { get; set; }
+        public virtual Compte Compte { get; set; }
     }
 }
