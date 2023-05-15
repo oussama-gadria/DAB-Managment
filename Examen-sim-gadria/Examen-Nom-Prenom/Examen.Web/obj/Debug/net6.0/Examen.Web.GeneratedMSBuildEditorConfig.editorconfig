@@ -16,6 +16,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\21653\Desktop\Oussama\DAB\DAB-Managment\Examen-sim-gadria\Examen-Nom-Prenom\Examen.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/21653/Desktop/Oussama/DAB/DAB-Managment/Examen-sim-gadria/Examen-Nom-Prenom/Examen.Web/Views/Banque/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFucXVlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21653/Desktop/Oussama/DAB/DAB-Managment/Examen-sim-gadria/Examen-Nom-Prenom/Examen.Web/Views/Banque/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFucXVlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21653/Desktop/Oussama/DAB/DAB-Managment/Examen-sim-gadria/Examen-Nom-Prenom/Examen.Web/Views/CompteController1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHRlQ29udHJvbGxlcjFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21653/Desktop/Oussama/DAB/DAB-Managment/Examen-sim-gadria/Examen-Nom-Prenom/Examen.Web/Views/CompteController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHRlQ29udHJvbGxlcjFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/21653/Desktop/Oussama/DAB/DAB-Managment/Examen-sim-gadria/Examen-Nom-Prenom/Examen.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

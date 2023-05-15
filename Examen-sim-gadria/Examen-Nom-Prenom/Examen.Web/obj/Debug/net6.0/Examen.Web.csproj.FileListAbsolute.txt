@@ -581,3 +581,4 @@ C:\Users\21653\Desktop\Oussama\DAB\DAB-Managment\Examen-sim-gadria\Examen-Nom-Pr
 C:\Users\21653\Desktop\Oussama\DAB\DAB-Managment\Examen-sim-gadria\Examen-Nom-Prenom\Examen.Web\obj\Debug\net6.0\Examen.Web.pdb
 C:\Users\21653\Desktop\Oussama\DAB\DAB-Managment\Examen-sim-gadria\Examen-Nom-Prenom\Examen.Web\obj\Debug\net6.0\Examen.Web.genruntimeconfig.cache
 C:\Users\21653\Desktop\Oussama\DAB\DAB-Managment\Examen-sim-gadria\Examen-Nom-Prenom\Examen.Web\obj\Debug\net6.0\ref\Examen.Web.dll
+C:\Users\21653\Desktop\Oussama\DAB\DAB-Managment\Examen-sim-gadria\Examen-Nom-Prenom\Examen.Web\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll

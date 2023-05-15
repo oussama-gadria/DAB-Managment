@@ -15,6 +15,10 @@ builder.Services.AddSingleton<Type>(t => typeof(GenericRepository<>));
 
 //*******************
 builder.Services.AddScoped<IExempleService, ExempleService>();
+builder.Services.AddScoped<IServiceTransaction, ServiceTransaction>();
+builder.Services.AddScoped<IServiceCompte,CompteService>();
+builder.Services.AddScoped<IServiceBanque, BanqueService>();
+
 //................
 
 
